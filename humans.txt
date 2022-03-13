@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ramajayan -- Gopithirumal -- @jayam26
+
+
 
 # THANKS
 
@@ -13,3 +15,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+
+    Kubernetes Openshift Ansible Linux Jenkins GIT Azure Admin Devops CDP Apache Spark
+
