@@ -9,9 +9,9 @@
 
 # THANKS
 
-    <name>
+     All my students of artificial intelligence
 
-# TECHNOLOGY COLOPHON
+    RECHHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
