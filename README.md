@@ -6,8 +6,8 @@
 
 ##How to contribute to this Project by Ramajayam Gopithirumal 
 
-### Deployment Configs
-
 ##Adding additional information  
 
 ##Modificatiion to unstage
+
+#git to modify
