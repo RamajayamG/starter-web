@@ -1,8 +1,8 @@
-# Starter Web Repo
+#Starter Web Project 
 
-This repository is for showing how Git and GitHub work
+## Introduction to the Project 
 
-## Purpose
+##Purpose of this project 
 
-Sample website with plenty of files for demos  Please fork this file before commit
+##How to contribute to this Project by Ramajayam Gopithirumal 
 
